@@ -1,4 +1,4 @@
-### <div align="center">I'm Julia, a full-time full-stack developer 👩‍💻 from Brasil.</div>  
+### <div align="center">I'm Julia, a full-time full stack developer 👩‍💻 from Brasil.</div>  
   
 
 <br/>  
