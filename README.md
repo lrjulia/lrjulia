@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 🔭 I’m currently working on full-stack social media app<br>🌱 I’m currently learning React
 
 
