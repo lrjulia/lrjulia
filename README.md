@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭 I’m currently working on full-stack social media app<br>🌱 I’m currently learning React
+🔭 I’m currently working on a weather app<br>🌱 I’m currently learning React
 
 
 ## 🌐 Socials:
