@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭 I’m currently working on a weather app<br>🌱 I’m currently learning Ionic
+<!--🔭 I’m currently working on a weather app<br>🌱 I’m currently learning Ionic-->
 
 
 ## 🌐 Socials:
