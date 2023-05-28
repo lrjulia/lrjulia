@@ -1,6 +1,6 @@
 # 💫 About Me
 <!--🔭 I’m currently working on a weather app<br>🌱 I’m currently learning Ionic-->
-
+Software developer with two years of experience in full-stack web development. Proficient in JavaScript, TypeScript, and Java, with expertise in frameworks like Angular, Vue.js, and Spring Boot. Strong analytical skills, attention to detail, and the ability to effectively collaborate in agile teams.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lrjulia) 
